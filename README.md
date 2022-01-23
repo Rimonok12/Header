@@ -1,24 +1,21 @@
 # Hey there 👋
 
 🔭 I’m currently working on Datastructures and Algorithms
-🌱 I’m currently learning Angular.js and Node.js
-👯 I’m looking to collaborate on 
+🌱 I’m currently learning React.js and Node.js
+👯 I’m looking to collaborate on Front end Projects.
+🤔 I’m looking for help with BeckEnd documentation.
+💬 Ask me about ReactJS or any Python stuff.
+⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
-# 📫 How to reach me:(url)
+![Rimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimonok12&show_icons=true)
 
 
-<!-- Actual text -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimonok12)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
- 
+<a href="https://github.com/Rimonok12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rimonok12&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Rimonok12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rimonok12&repo=convoychat" />
+</a>
